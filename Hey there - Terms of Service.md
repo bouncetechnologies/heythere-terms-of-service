@@ -1,0 +1,7 @@
+# Hey there - Terms of service
+
+**Effective date: 24th October 2022**
+
+Welcome to Bounce Technologies Limited’s (“Bounce”) terms of service. We are registered in England under company number 10805448 (“Bounce,” “We”, “Our” and “Us”). Please read on to learn the rules and restrictions that govern Your use of our website(s), products, services and applications (the “Services”). If You have any questions, comments, concerns or suggestions of how We can improve these Terms or the Service, please email us at [hello@bouncebot.io](mailto:hello@bouncebot.io), or write to Bounce Technologies Limited, Office 5-5, Platf9rm Nine, Floor 5, Tower Point, 44 North Road, Brighton, BN1 1YR.
+
+These terms of service (the “Terms”) and any Order Forms are a binding contract (“Contract”) between the Customer (“Customer”, “You” and “Your”) and Bounce. Please read the Terms and make sure that you understand and agree to their content before using Our Services, as We will be unable to provide You with Our Services if You do not agree to and accept all of the Terms in this document and Hey there’s Privacy Policy ([https://github.com/bouncetechnologies/heythere-privacy-policy/](https://github.com/bouncetechnologies/heythere-privacy-policy/)). These Terms apply to Your use of Bounce’s Hey there Services and any other Services We may provide, including any updates to Our Services, unless We provide you with separate terms, in which case those terms apply.
